@@ -18,7 +18,7 @@ Aquí puedes ver una captura del programa en funcionamiento:
 
 ---
 
-## 🛠️ Tecnologías y conceptos practicados
+Tecnologías y conceptos practicados
 * **Lenguaje:** Java 
 * **Entorno:** Ejecución por consola / Terminal.
 * **Conceptos clave de programación:**
@@ -30,5 +30,5 @@ Aquí puedes ver una captura del programa en funcionamiento:
 ---
 
 Futuras Actualizaciones
-* [ ] Añadir soporte para el cálculo de NIE.
-* [ ] Implementar un validador completo que verifique si un DNI entero (con letra incluida) es real o falso.
+- Añadir soporte para el cálculo de NIE.
+- Implementar un validador completo que verifique si un DNI entero (con letra incluida) es real o falso.
